@@ -1,13 +1,13 @@
 {
   "name": "vue-good-table-expanse",
-  "version": "0.0.1",
+  "version": "0.0.6",
   "sideEffects": [
     "*.vue",
     "*.css"
   ],
   "description": "Using expanse menu for table : It's based on 'vue-good-table'",
-  "main": "dist/vue-good-table.cjs.js",
-  "module": "dist/vue-good-table.esm.js",
+  "main": "dist/vue-good-table-expanse.cjs.js",
+  "module": "dist/vue-good-table-expanse.esm.js",
   "files": [
     "dist",
     "lib"
