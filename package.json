@@ -10,7 +10,7 @@
   "module": "dist/vue-good-table.esm.js",
   "files": [
     "dist",
-    "src"
+    "lib"
   ],
   "scripts": {
     "bundle": "bili",
@@ -19,7 +19,7 @@
     "docs:build": "vuepress build vp-docs",
     "test": "echo \"No test specified\""
   },
-  "repository": "github:xaksis/vue-good-table",
+  "repository": "github:khh0929/vue-good-table-expanse",
   "keywords": [
     "vue",
     "vuejs",
@@ -28,8 +28,8 @@
     "expanse"
   ],
   "author": {
-    "name": "xaksis",
-    "email": "shay@crayonbits.com"
+    "name": "khh",
+    "email": "khh0929@gmail.com"
   },
   "license": "MIT",
   "poi": {
